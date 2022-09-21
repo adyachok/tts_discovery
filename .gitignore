@@ -1,0 +1,8 @@
+.DS_Store
+.idea/
+
+
+# Exclude models
+onnx-wav2vec2-150k.onnx
+onnx-wav2vec2.onnx
+
